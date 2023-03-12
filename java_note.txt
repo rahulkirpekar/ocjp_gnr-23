@@ -1,0 +1,55 @@
+
+			       Oracle------->[OCJP]	
+				 |
+			   SunMicroSystem----[SCJP]	
+OAK				 |
+ | 			 ----------------------
+java ----> [Dr.Java]---->"James Arthur Gosling" 
+
+1) compile---[english to Bytecode(class File)]
+      |
+[java Compiler]	
+
+		   jdk install
+		      |
+		  -------------
+compile Command:- cmd/Terminal---->[javac JavaFileName.java]
+-------------------
+
+
+2) run-------[ByteCode(Class)File-----Run-----JRE---JVM------[OS]]
+----------
+    |
+  [JRE]---> [Java Runtime Environment]	
+    |
+   JVM---->[Java Virtual Machine]
+
+Run Command:- cmd/Terminal---->[java ClassName]
+-------------
+
+JDK[Java Devlopment Kit]---jdk-17:-
+-------------------------
+1) Java Compiler---[javac -version]
+
+2) JRE[Java Runtime Environment]---JVM--[java -version]
+
+3) Documentation[src.zip]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
